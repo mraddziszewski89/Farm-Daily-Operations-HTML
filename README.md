@@ -159,4 +159,4 @@ Projekt może być używany jako:
 
 Szczegółowy opis techniczny znajduje się w pliku:
 
-- [`FarmDailyOperations_Dokumentacja_Techniczna.md`](./FarmDailyOperations_Dokumentacja_Techniczna.md)
+- [`FarmDailyOperations_Dokumentacja_Techniczna.md`](https://github.com/mraddziszewski89/Farm-Daily-Operations-HTML/wiki#farmdailyoperationsps1---dokumentacja-techniczna)
